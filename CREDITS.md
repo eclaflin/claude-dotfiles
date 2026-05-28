@@ -29,6 +29,9 @@ Spec and iteration by me, developed collaboratively with Claude (Anthropic).
 | Skill / Command | Source | Author | License | Changes |
 |-----------------|--------|---------|---------|---------|
 | `skills/skill-creator/` | [anthropics/skills](https://github.com/anthropics/skills/tree/main/skills/skill-creator) | Anthropic | Apache 2.0 | Unmodified |
+| `skills/caveman/` | [mattpocock/skills](https://github.com/mattpocock/skills/tree/main/skills/productivity/caveman) | Matt Pocock | MIT | Unmodified |
+| `skills/grill-me/` | [mattpocock/skills](https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me) | Matt Pocock | MIT | Unmodified |
+| `skills/handoff/` | [mattpocock/skills](https://github.com/mattpocock/skills/tree/main/skills/productivity/handoff) | Matt Pocock | MIT | Unmodified |
 
 > Original license files are retained in each skill's directory as required by Apache 2.0.
 
