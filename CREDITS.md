@@ -32,6 +32,7 @@ Spec and iteration by me, developed collaboratively with Claude (Anthropic).
 | `skills/caveman/` | [mattpocock/skills](https://github.com/mattpocock/skills/tree/main/skills/productivity/caveman) | Matt Pocock | MIT | Unmodified |
 | `skills/grill-me/` | [mattpocock/skills](https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me) | Matt Pocock | MIT | Unmodified |
 | `skills/handoff/` | [mattpocock/skills](https://github.com/mattpocock/skills/tree/main/skills/productivity/handoff) | Matt Pocock | MIT | Unmodified |
+| `skills/grill-with-docs/` | [mattpocock/skills](https://github.com/mattpocock/skills/tree/main/skills/engineering/grill-with-docs) | Matt Pocock | MIT | Unmodified |
 
 > Original license files are retained in each skill's directory as required by Apache 2.0.
 
