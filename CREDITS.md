@@ -20,7 +20,7 @@ Spec and iteration by me, developed collaboratively with Claude (Anthropic).
 
 | Skill / Command | Description |
 |-----------------|-------------|
-| | |
+| `skills/nvim-tutor/` | Neovim teacher and config assistant — teach mode, plugin mode, and config editing |
 
 ---
 

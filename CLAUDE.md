@@ -15,3 +15,10 @@ This repo contains my personal Claude Code skills and commands, symlinked into ~
 1. Create a folder under skills/
 2. Add a SKILL.md following the standard frontmatter format
 3. Update CREDITS.md with origin and attribution
+
+## Neovim config standards
+
+The user's Neovim config is at `~/.config/nvim/`. See `~/.config/nvim/CLAUDE.md` for organization conventions. Key points:
+- Plugin manager: `lazy.nvim`
+- Split `init.lua` into `lua/config/` and `lua/plugins/` once it grows past ~60-80 lines of settings or 3+ plugins
+- Always ask before writing any changes to the nvim config
